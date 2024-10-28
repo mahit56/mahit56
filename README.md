@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mahit56
+- 👀 I’m interested in Go Programming Language
+- 🌱 I’m currently learning Ruby
